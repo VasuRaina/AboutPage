@@ -31,11 +31,8 @@ export const retrieveUserData = (profileName) => {
     bio = vasuBio;
   }
 
-  let imgSource = `/src/assets/${profileName}.jpg`;
-
   const payload = {
     profileBio: bio,
-    profileImage: imgSource,
   };
 
   return payload;
