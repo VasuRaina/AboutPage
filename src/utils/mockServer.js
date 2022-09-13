@@ -11,7 +11,7 @@ const kartikeyBio =
   "Hi. My name is Kartikey Sarode and I'm a graduate freshman at SF State. I'm the Github Master for Team 2 in CSC-848-04 course. I have prior work experience as a DevOps engineer. In my free time, I like to listen to music, watch anime/F1 and play badminton.";
 
 const vasuBio =
-  'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.';
+  "Hello ! :) My name is Vasu Raina, I'm a senior Computer Science student at SFSU. I'm the Team Lead for team 2 in CSC 648-04. I'm a huge sports fan, when I dont have school work you can often find me watching a game or enjoying a beer with friends. Aside form sports, I maintain an interst in all kinds of general knowlegde games, currently I'm in love with crosswords!";
 
 export const retrieveUserData = (profileName) => {
   let bio;
